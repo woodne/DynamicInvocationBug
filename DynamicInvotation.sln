@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{1B790FE1-A0C9-4005-842B-EC64969D9BE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File", "File", "{41319312-061A-4A30-9184-9FE8701E441A}"
+ProjectSection(SolutionItems) = preProject
+	Program.cs = Program.cs
+EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore20", "NetCore20\NetCore20.csproj", "{1CA6482C-CFB2-4578-AF7A-B4C6B3EFFE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore21", "NetCore21\NetCore21.csproj", "{288540BA-CD65-4AD2-93C2-3F5B0CD2EC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B790FE1-A0C9-4005-842B-EC64969D9BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B790FE1-A0C9-4005-842B-EC64969D9BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B790FE1-A0C9-4005-842B-EC64969D9BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B790FE1-A0C9-4005-842B-EC64969D9BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA6482C-CFB2-4578-AF7A-B4C6B3EFFE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA6482C-CFB2-4578-AF7A-B4C6B3EFFE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA6482C-CFB2-4578-AF7A-B4C6B3EFFE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA6482C-CFB2-4578-AF7A-B4C6B3EFFE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288540BA-CD65-4AD2-93C2-3F5B0CD2EC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288540BA-CD65-4AD2-93C2-3F5B0CD2EC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288540BA-CD65-4AD2-93C2-3F5B0CD2EC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288540BA-CD65-4AD2-93C2-3F5B0CD2EC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
